@@ -33,7 +33,7 @@ app.config['MAIL_DEFAULT_SENDER'] = 'idmsaglikmerkezi@gmail.com'
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_PORT'] = 3307
 app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'GodzillaV5'
+app.config['MYSQL_PASSWORD'] = 'your-password'
 app.config['MYSQL_DB'] = 'pms'
 
 mysql = MySQL(app)
