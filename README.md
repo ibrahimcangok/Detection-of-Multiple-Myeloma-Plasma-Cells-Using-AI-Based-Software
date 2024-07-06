@@ -1,1 +1,1 @@
-
+We used Flask, JavaScript, MySQL, TensorFlow, Python, and YOLOv8 technologies. Our goal was to detect multiple myeloma plasma cells in medical images using TensorFlow and YOLOv8. We designed a user-friendly web interface with Flask and securely stored patient data in a MySQL database. I focused on the web part of the project, working on the user interface and data management, and enhanced my teamwork and project management skills.
